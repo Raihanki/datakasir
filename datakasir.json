@@ -1,0 +1,27 @@
+[
+    {
+        "name" : "Bell Cranel",
+        "age" : "18 Years Old",
+        "imageId" : "bell"
+    },
+    {
+        "name" : "Hikigaya Hachiman",
+        "age" : "20 Years Old",
+        "imageId" : "hikigaya"
+    },
+    {
+        "name" : "Shiina Mashiro",
+        "age" : "18 Years Old",
+        "imageId" : "shiina"
+    },
+    {
+        "name" : "Tokisaki Kurumi",
+        "age" : "18 Years Old",
+        "imageId" : "tokisaki"
+    },
+    {
+        "name" : "Shinomiya Kaguya",
+        "age" : "18 Years Old",
+        "imageId" : "shinomiya"
+    }
+]
